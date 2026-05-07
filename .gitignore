@@ -1,0 +1,19 @@
+# Secrets — NEVER commit this
+.env
+
+# Personal data — no need on GitHub
+preferences.json
+jobs.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
